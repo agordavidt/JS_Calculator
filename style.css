@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    margin-right: 150px;
+    margin-top: 20px;
+}
+#calform{
+    margin-left: 225px;
+    margin-top: 20px;
+}
+#result{
+    width: 465px; 
+    height: 100px; 
+    text-align: right; 
+    background-color: #1f80c9;
+}
+input{ 
+    width: 100px;
+    height: 80px;
+    font-size: 65px;
+    border-radius: 8px;
+    margin: 8px;
+    background-color: #000;
+    color: #fff;
+    border-style: none;
+}
